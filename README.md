@@ -1,9 +1,7 @@
-# FPSGame
+# White Paper
 This is a FPS game, made by Unity Engin
 
-# White Paper
 Shoot Game, Start with hand. have a starting weapon, as stick, and a low level gun.
-
 Shoot Game, have the bullet limit. then have the motivition to Kill more Enemy for Bullet.  
 
 **Bullet**    
