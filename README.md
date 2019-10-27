@@ -42,4 +42,15 @@ Have a pressue to alive.
 - Model   
 - Program
 - Data
+-- SaveLoad DataStructure 
+- Config DataStructure
+- Spawn DataStructure
+- Scene
+- Scene sequence
+- Scene Load structure
+- Data transfer
+- Map
+- Level Design
+- NPC Spawn
+- Story Design
 
