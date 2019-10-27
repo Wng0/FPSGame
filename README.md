@@ -39,16 +39,16 @@ Have a pressue to alive.
 
 **WorkPackage**
 - UI    
-  -Title UI
-  -Manue UI
-  -Status UI
+  - Title UI
+  - Manue UI
+  - Status UI
 - Model   
-  -Weapon Model
-  -Charactor Model
-  -Building Model
+  - Weapon Model
+  - Charactor Model
+  - Building Model
 - Program
 - Data
-  -SaveLoad DataStructure 
+  - SaveLoad DataStructure 
   - Config DataStructure
   - Spawn DataStructure
 - Scene
