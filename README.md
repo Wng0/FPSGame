@@ -40,7 +40,7 @@ Have a pressue to alive.
 **WorkPackage**
 - UI    
   - Title UI
-  - Manue UI
+  - Manu UI
   - Status UI
 - Model   
   - Weapon Model
